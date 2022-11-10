@@ -2,39 +2,39 @@
 const facts = [
     {
       id: 1,
-      animal: "susan smith",
-      type: "web developer",
+      animal: "golden poison dart frog",
+      type: "Terrifying",
       img:
-        "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+        "https://images.unsplash.com/photo-1465502122287-9eab969fac20?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z29sZGVuJTIwcG9pc29uJTIwZGFydCUyMGZyb2d8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
       fact:
-        "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+        "The golden poison dart frog (Phyllobates terribilis) is the size of a paperclip... but don’t be deceived by its tiny size! Its skin is coated in a lethal toxin that leaves the nerves and muscles of its victims inactive, leading to death. This little frog contains about one milligram of poison, enough to kill 10 - 20 humans if the poison reaches their bloodstreams.",
     },
     {
       id: 2,
-      animal: "anna johnson",
-      type: "web designer",
+      animal: "Otter",
+      type: "cute",
       img:
-        "https://images.unsplash.com/photo-1521146764736-56c929d59c83?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "https://i.kym-cdn.com/entries/icons/original/000/000/410/otters.jpg",
       fact:
-        "Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee eanimall pin fashion axe.photo booth jean shorts artisan narwhal.",
+        "Otters “hold hands” while sleeping, so they don’t float away from each other.",
     },
     {
       id: 3,
-      animal: "peter jones",
-      type: "intern",
+      animal: "silver-headed antechinus",
+      type: "spicy",
       img:
-        "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+        "https://inqld.com.au/wp-content/uploads/2021/08/Untitled-1-10.jpg?fit=850%2C455?w=550&h=330",
       fact:
-        "Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.",
+        "During the mating season, the males system is pumped with so much cortisol that it can go blind, lose hair and even bleed internally. Despite all this it will continue to mate until it inevitably dies. Either the survival of the species is more important to it than its own survival, or it’s just really thirsty and desperate to make love.",
     },
     {
       id: 4,
-      animal: "bill anderson",
-      type: "the boss",
+      animal: "Platypus",
+      type: "Scary",
       img:
-        "https://images.unsplash.com/photo-1521119989659-a83eee488004?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29uJTIwcG9ydHJhaXR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "https://images.unsplash.com/photo-1605687720340-696371e40e38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
       fact:
-        "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
+        "Platypuses are venomous. They might look cute and cuddly, but come across a male platypus in mating season and you’ll be in for a painful shock. Male platypuses have a hollow spur on each hind leg connected to a venom secreting gland, and while their venom is lethal, there are no recorded deaths from platypuses or from platypus stings.",
     },
 ];
 
