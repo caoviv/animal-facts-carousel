@@ -58,9 +58,11 @@ window.addEventListener('DOMContentLoaded', showReview(currentItem));
 nextBtn.addEventListener('click', nextReview);
 // show previous review 
 prevBtn.addEventListener('click', prevReview);
+// show random review 
+randomBtn.addEventListener('click', randomReview);
 
 // functions 
-// show person based on item 
+// show review based on item 
 function showReview(person) {
   const item = reviews[person];
   img.src = item.img;
@@ -84,5 +86,12 @@ function prevReview () {
   if (currentItem < 0) {
     currentItem = reviews.length - 1;
   }
+  showReview(currentItem);
+}
+
+// show random review in array 
+function randomReview () {
+  currentItem = Math.floor(Math.random() * reviews.length)
+
   showReview(currentItem);
 }
