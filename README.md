@@ -1,5 +1,7 @@
 # Animal Facts Carousel
-I created a carousel of animal facts
+I created a carousel of animal facts.
+
+For more practice with objects I store the facts as objects.
 
 I also impleted an extra button that generates a random fact.
 This was because I wanted to practice previous learning.
