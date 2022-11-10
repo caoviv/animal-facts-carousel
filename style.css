@@ -88,7 +88,7 @@ main {
     color: #fff;
 }
 
-#person-img {
+#img {
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
@@ -100,19 +100,19 @@ img:not(.nav-logo) {
     display: block;
 }
 
-#author {
+#animal {
     margin-bottom: 0.25rem;
     text-transform: capitalize;
 }
 
-#job {
+#type {
     margin-bottom: 0.5rem;
     text-transform: uppercase;
     color: #fca311;
     font-size: 0.85rem;
 }
 
-#info {
+#fact {
     margin-bottom: 0.75rem;
 }
 
